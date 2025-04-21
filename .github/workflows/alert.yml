@@ -1,5 +1,4 @@
 name: Send Failure Email
-
 on:
   workflow_run:
     workflows: ["Python CI with Logging"]
